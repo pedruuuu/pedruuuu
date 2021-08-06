@@ -1,9 +1,10 @@
 <h1>😃 Olá, eu sou Pedro 👋</h1>
 
-👨‍💻・Desenvolvedor back-end.<br>
+👨‍💻・Desenvolvedor FullStack.<br>
 📱・15y.<br>
 😄・Pronomes: ele/dele
 
 <h2>Tecnologias que utilizo:</h2>
+<img src="https://raw.githubusercontent.com/pedruuuu/pedruuuu/main/assets/node.png">
 
 <h2>Comunicação</h2>
