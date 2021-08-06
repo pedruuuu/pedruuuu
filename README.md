@@ -5,6 +5,6 @@
 😄・Pronomes: ele/dele
 
 <h2>Tecnologias que utilizo:</h2>
-<img src="https://raw.githubusercontent.com/pedruuuu/pedruuuu/main/assets/node.png">
+<img src="">
 
 <h2>Comunicação</h2>
